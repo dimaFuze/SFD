@@ -1,11 +1,50 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
- <head></head> 
- <body> 
-  <h1> Hello, Dcoder </h1> 
-  <div>
-    This is a html example from Dcoder, 
-   <br> have fun. :) 
-  </div> 
- </body>
+  <head>
+    <title>flovers shop</title>
+    <style type="text/css" >
+      body{
+        width: 90%;
+        margin: 0 auto;
+      }
+      h1{
+        
+      }
+      header{
+        display: block;
+        background-color:#E0E2E3;
+        text-align: center;
+        font-family: Georgia;
+      }
+      
+      ul{
+        list-style-type: none;
+        display: inline-block;
+      }
+      a{
+       text-decoration: none;
+       
+      }
+      li{
+        display:inline;
+      }
+      
+    </style>
+  </head>
+  <body>
+    <header>
+      
+      <h1> Flovers</h1>
+      <nav>
+       <ul>
+         <li><a href="">Main information</a></li>
+         <li><a href="">Shop</a></li>
+         <li><a href="">Contacts</a></li>
+       </ul>
+        
+       </nav>
+    
+      
+    </header>
+  </body>
 </html>
